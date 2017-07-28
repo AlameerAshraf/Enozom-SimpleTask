@@ -1,0 +1,56 @@
+<button class="btn btn-warning open">Insert New Store Data</button>
+<br />
+<br />
+
+<div class="row text-center">
+    <div ng-repeat="item in items" class="hero-feature" >
+        <div class="thumbnail">
+            <img src="{{item.StoreLogo}}" alt="" id="{{item.StoreId}}Image">
+            <div class="caption">
+                <h3 id="{{item.StoreId}}Name">{{item.StoreName}}</h3>
+                <p id="{{item.StoreId}}Des">{{item.StoreDescription}}</p>
+                <p>
+                    <button class="btn btn-danger" ng-click="ConfirmDelete(item.StoreId)">Delete</button>
+                    <button class="btn btn-success" ng-click="EditItem(item.StoreId)">Change</button>  
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Item Panel</h4>
+            </div>
+            <div class="modal-body">
+                    <label> Store Image : </label>
+                    <input type="file" id="ImageUplod" accept="image/x-png,image/gif,image/jpeg"/>
+                    <br />
+                    <input type="text" class="form-control" id="ImageLoader" required>
+                    <input type="hidden" class="form-control" id="StoreId" required>
+                    <br />
+                    <label> Store Name : </label>
+                    <input type="text" class="form-control" id="sname" required>
+                    <br />
+                    <label> Store Description : </label>
+                    <textarea class="form-control" rows="5" id="sdes"></textarea>
+                    <br />
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-success SaveData" data-dismiss="modal">Save</button>
+                <button type="button" class="btn btn-success EditData" data-dismiss="modal">Edit</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+<script>
+    function Dele() {
+        console.log("As")
+    }
+</script>

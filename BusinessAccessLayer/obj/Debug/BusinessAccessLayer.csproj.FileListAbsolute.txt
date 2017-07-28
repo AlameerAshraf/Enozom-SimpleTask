@@ -1,0 +1,13 @@
+C:\Users\apple\OneDrive\Documents\GitHub\Enozom-SimpleTask\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\apple\OneDrive\Documents\GitHub\Enozom-SimpleTask\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll.config
+C:\Users\apple\OneDrive\Documents\GitHub\Enozom-SimpleTask\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+C:\Users\apple\OneDrive\Documents\GitHub\Enozom-SimpleTask\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\apple\OneDrive\Documents\GitHub\Enozom-SimpleTask\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\apple\OneDrive\Documents\GitHub\Enozom-SimpleTask\BusinessAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\apple\OneDrive\Documents\GitHub\Enozom-SimpleTask\BusinessAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\apple\OneDrive\Documents\GitHub\Enozom-SimpleTask\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\apple\OneDrive\Documents\GitHub\Enozom-SimpleTask\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\apple\OneDrive\Documents\GitHub\Enozom-SimpleTask\BusinessAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\apple\OneDrive\Documents\GitHub\Enozom-SimpleTask\BusinessAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\apple\OneDrive\Documents\GitHub\Enozom-SimpleTask\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+C:\Users\apple\OneDrive\Documents\GitHub\Enozom-SimpleTask\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb

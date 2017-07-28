@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enozom-SimpleTask", "Enozom-SimpleTask\Enozom-SimpleTask.csproj", "{F01DC8BD-63C5-4523-994F-14C9EA9C57E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{770EBA7C-FD46-4F59-A9BE-4C3E4961642C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessAccessLayer", "BusinessAccessLayer\BusinessAccessLayer.csproj", "{1238ECF1-2B41-44F0-8EB0-DFAFDD4C839F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{ED814667-BF03-437C-BECF-124115CD7AD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F01DC8BD-63C5-4523-994F-14C9EA9C57E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01DC8BD-63C5-4523-994F-14C9EA9C57E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01DC8BD-63C5-4523-994F-14C9EA9C57E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01DC8BD-63C5-4523-994F-14C9EA9C57E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770EBA7C-FD46-4F59-A9BE-4C3E4961642C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770EBA7C-FD46-4F59-A9BE-4C3E4961642C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770EBA7C-FD46-4F59-A9BE-4C3E4961642C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770EBA7C-FD46-4F59-A9BE-4C3E4961642C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1238ECF1-2B41-44F0-8EB0-DFAFDD4C839F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1238ECF1-2B41-44F0-8EB0-DFAFDD4C839F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1238ECF1-2B41-44F0-8EB0-DFAFDD4C839F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1238ECF1-2B41-44F0-8EB0-DFAFDD4C839F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED814667-BF03-437C-BECF-124115CD7AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED814667-BF03-437C-BECF-124115CD7AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED814667-BF03-437C-BECF-124115CD7AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED814667-BF03-437C-BECF-124115CD7AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
